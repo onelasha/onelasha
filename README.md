@@ -1,2 +1,2 @@
 ## Contribution breakdown
-![Contribution radar](./assets/contrib_radar.svg)
+#![Contribution radar](./assets/contrib_radar.svg)
