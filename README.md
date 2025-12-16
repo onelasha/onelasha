@@ -28,8 +28,4 @@
 > Optimize for outcomes, not activity.  
 > Make complexity explicit, then remove it.
 
----
 
-### 📊 Contribution breakdown
-<!-- Radar chart will be injected below -->
-![Contribution radar](./assets/contrib_radar.svg)
