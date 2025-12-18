@@ -23,6 +23,30 @@
 - Executive-level engineering leadership (Director / VP roles)
 - Building practical, production-ready AI systems (RAG, automation, analytics)
 
+## 🧱 Nedlia — SaaS Engineering Reference Platform
+
+[Nedlia](https://github.com/onelasha/Nedlia) is my **reference implementation and standards baseline** for building complex, production-grade SaaS platforms.
+
+It reflects how I design, document, and govern modern systems in real organizations — not demos or toy examples.
+
+**Nedlia focuses on:**
+- Clean REST API design and contract-first development
+- Consistent response and error-handling standards
+- Cloud-native, event-driven architecture patterns
+- Scalable service boundaries and ownership models
+- Operational excellence (observability, resilience, CI/CD)
+- Security, versioning, and backward compatibility by design
+- Documentation as a first-class engineering artifact
+
+This repository acts as my **go-to blueprint** for:
+- Designing new SaaS platforms
+- Modernizing legacy systems
+- Establishing org-wide engineering standards
+- Aligning architecture decisions with business outcomes
+
+It evolves alongside real-world leadership experience and is intentionally opinionated, pragmatic, and production-focused.
+
+
 ## 📈 Engineering philosophy
 > Build systems and teams that scale **together**.  
 > Optimize for outcomes, not activity.  
