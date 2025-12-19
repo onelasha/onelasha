@@ -2,6 +2,9 @@
 
 **Director of Engineering / Application Development** with a proven track record of building and scaling distributed, high-performing teams and modern cloud-native SaaS platforms. I focus on aligning engineering execution with business outcomes, product strategy, and customer impact.
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="lavrenti-delavrenti-3ba0293a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/lavrenti-delavrenti-3ba0293a?trk=profile-badge">Lavrenti DeLavrenti</a></div>
+              
+
 ---
 
 ## 🔧 What I do
