@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lavrenti DeLavrenti
 
-**Director of Engineering / Application Development** with a proven track record of building and scaling distributed, high-performing teams and modern cloud-native SaaS platforms. I focus on aligning engineering execution with business outcomes, product strategy, and customer impact.
+**Director of Engineering** with a proven track record of building and scaling distributed, high-performing teams and modern cloud-native SaaS platforms. I focus on aligning engineering execution with business outcomes, product strategy, and customer impact.
 
 ---
 
