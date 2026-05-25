@@ -2,6 +2,21 @@
 
 **Director of Engineering** with a proven track record of building and scaling distributed, high-performing teams and modern cloud-native SaaS platforms. I focus on aligning engineering execution with business outcomes, product strategy, and customer impact.
 
+
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40onelasha-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/onelasha) [![X Follow](https://www.shieldcn.dev/x/follow/delavrenti.svg?variant=branded&size=sm)](https://x.com/delavrenti) [![Website](https://www.shieldcn.dev/badge/Website-delavrenti.com-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://delavrenti.com)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/onelasha.svg?variant=secondary&size=sm)](https://github.com/onelasha?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/onelasha.svg?variant=secondary&size=sm)](https://github.com/onelasha?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-7-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/onelasha?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Los_Angeles%2C_CA-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-One%C2%AE-1f2937.svg?logo=building&variant=ghost&size=sm)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Swift](https://www.shieldcn.dev/badge/-Swift-F05138.svg?logo=swift&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Nx](https://www.shieldcn.dev/badge/-Nx-143055.svg?logo=nx&variant=branded&size=sm) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=sm) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm) ![Vitest](https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&variant=branded&size=sm) ![Husky](https://www.shieldcn.dev/badge/-Husky-3B82F6.svg?logo=husky&variant=branded&size=sm) ![lint-staged](https://www.shieldcn.dev/badge/-lint--staged-F05032.svg?logo=git&variant=branded&size=sm)
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
 ---
 
 ## 🔧 What I do
