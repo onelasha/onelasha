@@ -16,8 +16,6 @@
 
 ---
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
----
 
 ## 🔧 What I do
 - Lead and scale multi-team engineering organizations (onshore + offshore)
